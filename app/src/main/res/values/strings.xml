@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Battleship</string>
+    <string name="GetGameListUrl">http://battleship.pixio.com/api/games</string>
+    <string name="GetGameUrl">http://battleship.pixio.com/api/games/:id</string>
+    <string name="JoinGameUrl">http://battleship.pixio.com/api/games/:id/join</string>
+    <string name="CreateNewGameUrl">http://battleship.pixio.com/api/games</string>
+    <string name="GuessUrl">http://battleship.pixio.com/api/games/:id/guess</string>
+    <string name="GetPlayerStatusUrl">http://battleship.pixio.com/api/games/:id/status</string>
+    <string name="GetPlayersBoardUrl">http://battleship.pixio.com/api/games/:id/board</string>
+</resources>
